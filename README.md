@@ -23,14 +23,3 @@ The allowed moves are:
 
 
 https://user-images.githubusercontent.com/56733438/213343838-583f273e-b108-4648-8d9c-8b2b95d1554b.mov
-
-
-
-
-### Details:
-
-**Part 1:**
-
-
-**Part 2:**
-
