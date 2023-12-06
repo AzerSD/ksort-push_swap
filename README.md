@@ -1,5 +1,7 @@
 # push_swap
 
+<img width="842" alt="image" src="https://github.com/AzerSD/push_swap/assets/56733438/e2a4cc04-f1f8-4c0c-baac-4c1c81498b8b">
+
 push_swap is a sorting algorithm based on sorting two stacks with the least amount of moves.
 The allowed moves are:
 
